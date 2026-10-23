@@ -1,0 +1,10 @@
+:HL["/_next/static/chunks/3xixx89b13ajq.css","style"]
+:HL["/_next/static/media/0020773107769bf5-s.p.38exmclhe5n0o.woff2","font",{"crossOrigin":"","type":"font/woff2"}]
+:HL["/_next/static/media/1aca6a6e0c6cb071-s.p.22p_0ylkoncz5.woff2","font",{"crossOrigin":"","type":"font/woff2"}]
+:HL["/_next/static/media/24bc33ae821208b7-s.p.045trq_3sylcd.woff2","font",{"crossOrigin":"","type":"font/woff2"}]
+:HL["/_next/static/media/41668b7e976a3c46-s.p.2vx-usavuz-_v.woff2","font",{"crossOrigin":"","type":"font/woff2"}]
+:HL["/_next/static/media/48a9130fde140ce9-s.p.2chmmw5jncpj5.woff2","font",{"crossOrigin":"","type":"font/woff2"}]
+:HL["/_next/static/media/4ae2e992fa830df4-s.p.42c5w67lj_gb-.woff2","font",{"crossOrigin":"","type":"font/woff2"}]
+:HL["/_next/static/media/a3150755b153d765-s.p.06l_kmf12p5hu.woff2","font",{"crossOrigin":"","type":"font/woff2"}]
+:HL["/_next/static/media/d0aeca6cdfe31f90-s.p.28qcf_2c5gqpd.woff2","font",{"crossOrigin":"","type":"font/woff2"}]
+0:{"tree":{"name":"","param":null,"prefetchHints":4184,"slots":{"children":{"name":"(kitchen)","param":null,"prefetchHints":4196,"slots":{"children":{"name":"recipe","param":null,"prefetchHints":4192,"slots":{"children":{"name":"id","param":{"type":"d","key":"banana-nice-cream","siblings":[]},"prefetchHints":4192,"slots":{"children":{"name":"__PAGE__","param":null,"prefetchHints":4256,"slots":null}}}}}}}}},"staleTime":300,"buildId":"Hrzpla565iTxHP_pS7uYC"}

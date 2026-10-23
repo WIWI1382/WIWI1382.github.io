@@ -1,0 +1,23 @@
+1:"$Sreact.fragment"
+2:I[22016,["/_next/static/chunks/382nz09n4o4va.js","/_next/static/chunks/22i43cg4l4-dq.js"],""]
+3:I[97367,["/_next/static/chunks/382nz09n4o4va.js"],"OutletBoundary"]
+4:"$Sreact.suspense"
+8:I[97367,["/_next/static/chunks/382nz09n4o4va.js"],"ViewportBoundary"]
+9:I[97367,["/_next/static/chunks/382nz09n4o4va.js"],"MetadataBoundary"]
+b:I[39756,["/_next/static/chunks/382nz09n4o4va.js"],"default"]
+c:I[37457,["/_next/static/chunks/382nz09n4o4va.js"],"default"]
+f:I[5030,["/_next/static/chunks/382nz09n4o4va.js"],"KitchenProvider"]
+:HL["/_next/static/chunks/3xixx89b13ajq.css","style"]
+7:X
+e:X
+e:C
+0:{"buildId":"Hrzpla565iTxHP_pS7uYC","data":[{"rsc":["$","$1","c",{"children":[["$","main",null,{"id":"main","className":"mx-auto max-w-md px-4 py-12 text-center","data-testid":"page-not-found","children":[["$","div",null,{"className":"mb-2 text-5xl","aria-hidden":true,"children":"🍳"}],["$","h1",null,{"className":"font-display text-2xl font-bold text-cocoa","children":"ไม่พบหน้านี้"}],["$","p",null,{"className":"mt-1 text-muted","children":"ลิงก์อาจผิด หรือหน้านี้ถูกนำออกไปแล้ว"}],["$","$L2",null,{"href":"/","className":"mt-4 inline-block rounded-full border-2 border-strawberry-ink bg-strawberry-deep px-5 py-2.5 font-display font-bold text-white focus-visible:outline-none focus-visible:ring-4 focus-visible:ring-strawberry/40","children":"กลับไปที่ครัว"}]]}],[["$","script","script-0",{"src":"/_next/static/chunks/22i43cg4l4-dq.js","async":true}]],["$","$L3",null,{"children":["$","$4",null,{"name":"Next.MetadataOutlet","children":"$@5"}]}]]}],"isPartial":"$@6","staleTime":"$7","varyParams":null},{"rsc":["$","$1","h",{"children":[["$","meta",null,{"name":"robots","content":"noindex"}],["$","$L8",null,{"children":[["$","meta","0",{"charSet":"utf-8"}],["$","meta","1",{"name":"viewport","content":"width=device-width, initial-scale=1"}],["$","meta","2",{"name":"theme-color","content":"#fff8ee"}]]}],["$","div",null,{"hidden":true,"children":["$","$L9",null,{"children":["$","$4",null,{"name":"Next.Metadata","children":[["$","title","0",{"children":"SweetLabs — เวอร์ชันทดลอง"}],["$","meta","1",{"name":"description","content":"เปิดตู้เย็น วางวัตถุดิบที่เหลือบนเคาน์เตอร์ แล้วดูว่าทำขนมอะไรได้บ้าง พร้อมสูตร อุปกรณ์ และของที่ยังขาด"}],["$","meta","2",{"name":"robots","content":"noindex, nofollow"}]]}]}]}],["$","meta",null,{"name":"next-size-adjust","content":""}]]}],"isPartial":"$@a","staleTime":"$7","varyParams":null},{"rsc":["$","$1","c",{"children":[null,["$","$Lb",null,{"parallelRouterKey":"children","template":["$","$Lc",null,{}]}]]}],"isPartial":"$@d","staleTime":"$7","varyParams":"$e"},{"rsc":["$","$1","c",{"children":[[["$","link","0",{"rel":"stylesheet","href":"/_next/static/chunks/3xixx89b13ajq.css","precedence":"next"}],["$","script","script-0",{"src":"/_next/static/chunks/382nz09n4o4va.js","async":true}]],["$","html",null,{"lang":"th","className":"mali_c1fe23da-module__jKV3sW__variable anuphan_17981907-module__iNKesW__variable h-full antialiased","children":["$","body",null,{"className":"min-h-full","children":[["$","a",null,{"href":"#main","className":"sr-only z-50 rounded-full bg-honey px-4 py-2 font-display font-bold text-ink focus:not-sr-only focus:fixed focus:left-3 focus:top-3","children":"ข้ามไปยังเนื้อหา"}],["$","$Lf",null,{"children":["$","$Lb",null,{"parallelRouterKey":"children","template":["$","$Lc",null,{}],"notFound":[["$","main",null,{"id":"main","className":"mx-auto max-w-md px-4 py-12 text-center","data-testid":"page-not-found","children":[["$","div",null,{"className":"mb-2 text-5xl","aria-hidden":true,"children":"🍳"}],["$","h1",null,{"className":"font-display text-2xl font-bold text-cocoa","children":"ไม่พบหน้านี้"}],["$","p",null,{"className":"mt-1 text-muted","children":"ลิงก์อาจผิด หรือหน้านี้ถูกนำออกไปแล้ว"}],["$","$L2",null,{"href":"/","className":"mt-4 inline-block rounded-full border-2 border-strawberry-ink bg-strawberry-deep px-5 py-2.5 font-display font-bold text-white focus-visible:outline-none focus-visible:ring-4 focus-visible:ring-strawberry/40","children":"กลับไปที่ครัว"}]]}],[]]}]}]]}]}]]}],"isPartial":"$@10","staleTime":"$7","varyParams":null}],"isUpgradeableISRFallback":false,"a":"$@11","rootVaryParams":null,"needsRuntimeRequest":"$@12"}
+5:null
+7:300
+12:true
+7:C
+11:0
+a:"$undefined"
+d:"$undefined"
+10:"$undefined"
+6:"$undefined"
